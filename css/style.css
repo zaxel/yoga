@@ -1432,7 +1432,7 @@ a {
   font-size: 18px;
 }
 
-.footer .footer-nav span {
+.footer .footer-nav li:first-of-type {
   font-weight: 700;
   letter-spacing: 0.17px;
   line-height: 25.31px;
@@ -1495,46 +1495,6 @@ a {
 .footer__logo-cont a:active {
   opacity: 1;
 }
-
-/*header start*/
-
-/*header end*/
-
-/*balance start*/
-
-/*balance end*/
-
-/*program start*/
-
-/*program end*/
-
-/*progras start*/
-
-/*programs end*/
-
-/*breathing start*/
-
-/*breathing end*/
-
-/*join start*/
-
-/*join end*/
-
-/*galery end*/
-
-/*galery end*/
-
-/*video start*/
-
-/*video end*/
-
-/*getInTouch start*/
-
-/*getInTouch end*/
-
-/*footer start*/
-
-/*footer end*/
 
 @media (max-width: 1312px) {
   .content-container__title {
@@ -1862,7 +1822,7 @@ a {
     height: 100%;
   }
 
-  .footer-nav span {
+  .footer-nav li:first-of-type {
     display: none;
   }
 
